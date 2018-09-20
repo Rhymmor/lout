@@ -18,7 +18,7 @@
     "hoek": "5.x.x"
   },
   "peerDependencies": {
-    "joi": "13.x.x",
+    "joi": "13.x.x"
   },
   "devDependencies": {
     "cheerio": "0.x.x",
