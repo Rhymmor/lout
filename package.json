@@ -18,10 +18,7 @@
     "hoek": "5.x.x"
   },
   "peerDependencies": {
-    "hapi": "17.x.x",
-    "inert": "5.x.x",
     "joi": "13.x.x",
-    "vision": "5.x.x"
   },
   "devDependencies": {
     "cheerio": "0.x.x",
